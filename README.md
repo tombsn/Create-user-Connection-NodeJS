@@ -1,6 +1,6 @@
 # Create-user-Connection-NodeJS
 
-This repository implements the creation of a user, its connection and disconnection.
+This repository implements the creation of a user and its connection.
 
 The database used is MySql. 
 
